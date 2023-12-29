@@ -1,0 +1,16 @@
+{
+  "name": "mastering-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript Data Structures and Algorithms",
+  "main": "index.ts",
+  "scripts": {
+    "file": "ts-node $filename",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelvin Isievwore",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
